@@ -52,10 +52,4 @@ A Quote generator that you can share with everyone through Twitter
 
 ---
 
-## Contributors
-
-- T Aswin Barath <https://github.com/AswinBarath>
-
----
-
 [**🔼 Back to Top**](#quote-generator)
