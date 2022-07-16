@@ -10,19 +10,10 @@ A Quote generator that you can share with everyone through Twitter
 
 ## Table of content
 
-- [Demo](#Demo)
 - [Technologies](#Technologies)
 - [What's unique in this Project](#whats-unique-in-this-project)
 - [Screenshot](#screenshot)
 - [Contributors](#Contributors)
-
----
-
-## Demo
-
-<p>
-<img src="assets/Quote Generator Demo.gif" alt="Quote Generator Project Demo" />
-</p>
 
 ---
 
