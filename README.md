@@ -39,7 +39,7 @@ A Quote generator that you can share with everyone through Twitter
 
 ## Screenshot
 
-<img src="assets/Quote Generator Screenshot.png" alt="Screenshot" />
+<img src="assets/screenshot_quote_generator.png" alt="Screenshot" />
 
 ---
 
